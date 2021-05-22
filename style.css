@@ -1,0 +1,74 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    width: 80%;
+    height: 500px;
+
+}
+
+#left-nav {
+    height: 18px;
+    float: right;
+}
+
+header a {
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-highlight {
+    color: orangered;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 75%;
+    
+}
+
+.profile-btn {
+    font-size: 18px;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 800;
+}
+
+#side-mar {
+    margin-left: 150px;
+}
+
+/* #mid-sec-header {
+    text-align: center;
+} */
+
+/* .card {
+    box-shadow: 0 4px 8px gainsboro;
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.mid-sec-width {
+    display: flex;
+    
+} */
+
+.project-card {
+    display: flex;
+}
